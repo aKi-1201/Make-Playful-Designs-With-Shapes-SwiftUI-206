@@ -10,9 +10,22 @@
 		9BCE41442E6FD53E00CB460E /* MakePlayfulDesignsWithShapesSwiftUI206.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MakePlayfulDesignsWithShapesSwiftUI206.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		9DB5E63D2E7EA4EC00438F10 /* Exceptions for "MakePlayfulDesignsWithShapesSwiftUI206" folder in "MakePlayfulDesignsWithShapesSwiftUI206" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 9BCE41432E6FD53E00CB460E /* MakePlayfulDesignsWithShapesSwiftUI206 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		9BCE41462E6FD53E00CB460E /* MakePlayfulDesignsWithShapesSwiftUI206 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				9DB5E63D2E7EA4EC00438F10 /* Exceptions for "MakePlayfulDesignsWithShapesSwiftUI206" folder in "MakePlayfulDesignsWithShapesSwiftUI206" target */,
+			);
 			path = MakePlayfulDesignsWithShapesSwiftUI206;
 			sourceTree = "<group>";
 		};
@@ -253,6 +266,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MakePlayfulDesignsWithShapesSwiftUI206/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +298,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MakePlayfulDesignsWithShapesSwiftUI206/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
